@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me 
 
-<!--
-**MazenAhmed75/MazenAhmed75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**MazenAhmed75/MazenAhmed75** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a mobile app for my college graduation project using Flutter 
+- 🌱 I’m currently learning Back end development using c# and .NET framework
+- 🤔 I’m looking for help with carrer advice and help with my projects and what to do to be ready for real world jobs 
+- 📫 How to reach me: linkedin , discord , instagram
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to play video games 
+
